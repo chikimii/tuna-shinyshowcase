@@ -1,0 +1,79 @@
+[
+  {
+    "species": "Weezing",
+    "dexNumber": 110,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png"
+  },
+  {
+    "species": "Golurk",
+    "dexNumber": 623,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png"
+  },
+  {
+    "species": "Psyduck",
+    "dexNumber": 54,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png"
+  },
+  {
+    "species": "Dusclops",
+    "dexNumber": 356,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png"
+  },
+  {
+    "species": "Octillery",
+    "dexNumber": 224,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/224.png"
+  },
+  {
+    "species": "Haxorus",
+    "dexNumber": 612,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/612.png"
+  },
+  {
+    "species": "Aggron",
+    "dexNumber": 306,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png"
+  },
+  {
+    "species": "Lilligant",
+    "dexNumber": 549,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/549.png"
+  },
+  {
+    "species": "Whirlipede",
+    "dexNumber": 544,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/544.png"
+  },
+  {
+    "species": "Scolipede",
+    "dexNumber": 545,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png"
+  },
+  {
+    "species": "Joltik",
+    "dexNumber": 595,
+    "caughtDate": "2024-08-10",
+    "originalTrainer": "chikimii",
+    "spriteUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/595.png"
+  }
+]
